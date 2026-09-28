@@ -5,7 +5,7 @@
 
 ### Less Is More in Seismic Fault Segmentation
 
-**保留局部断层线索 · 从合成数据学习 · 向实际工区泛化**
+
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-3D%20segmentation-EE4C2C?logo=pytorch&logoColor=white)](framework/FaultSegV3.py)
 [![Parameters](https://img.shields.io/badge/Parameters-0.563%20M-00897B)](#网络设计)
