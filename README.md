@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="FaultSegV3 — Less Is More in Seismic Fault Segmentation" width="100%">
 
 # FaultSegV3
 
