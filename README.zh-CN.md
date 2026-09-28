@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="docs/assets/banner.svg" alt="FaultSegV3：地震断层分割中的 Less Is More" width="100%">
 
 # FaultSegV3
 
