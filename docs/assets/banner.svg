@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+  <title id="title">FaultSegV3 — Less Is More</title>
+  <desc id="desc">A navy and teal research banner with stylized offset reflection lines. The drawing is a schematic, not a seismic result.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091628"/><stop offset="1" stop-color="#133c47"/></linearGradient>
+    <linearGradient id="fade"><stop stop-color="#57d8cb" stop-opacity=".10"/><stop offset="1" stop-color="#57d8cb" stop-opacity=".7"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#96c9cc" stroke-opacity=".06"/></pattern>
+    <clipPath id="right"><rect x="850" y="24" width="566" height="372" rx="20"/></clipPath>
+  </defs>
+  <rect width="1440" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1440" height="420" rx="24" fill="url(#grid)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="64" y="48" width="220" height="30" rx="15" fill="#19444f"/>
+    <text x="82" y="68" font-size="12" font-weight="700" letter-spacing="2" fill="#a2f2df">3D SEISMIC INTERPRETATION</text>
+    <text x="60" y="169" fill="#ffffff" font-size="80" font-weight="750" letter-spacing="-3">FaultSeg<tspan fill="#6ce5c9">V3</tspan></text>
+    <text x="64" y="228" fill="#e4f2f3" font-size="37" font-weight="600">Less Is More.</text>
+    <text x="64" y="271" fill="#a7c0ca" font-size="21">Fine-scale evidence. High-resolution features.</text>
+    <path d="M64 310H768" stroke="#5f969e" stroke-opacity=".35"/>
+    <text x="64" y="350" fill="#6ce5c9" font-size="26" font-weight="700">0.563 M</text>
+    <text x="64" y="377" fill="#a7c0ca" font-size="15">PARAMETERS</text>
+    <text x="300" y="350" fill="#6ce5c9" font-size="26" font-weight="700">1 downsampling</text>
+    <text x="300" y="377" fill="#a7c0ca" font-size="15">MAIN FEATURE PATH</text>
+    <text x="604" y="350" fill="#6ce5c9" font-size="26" font-weight="700">Local cues</text>
+    <text x="604" y="377" fill="#a7c0ca" font-size="15">DESIGN HYPOTHESIS</text>
+  </g>
+  <g clip-path="url(#right)" fill="none" stroke="url(#fade)" stroke-width="2">
+    <path d="M842 73Q935 48 1120 74M1120 97Q1280 124 1428 85"/>
+    <path d="M842 95Q935 70 1112 96M1112 119Q1280 146 1428 107"/>
+    <path d="M842 117Q935 92 1104 118M1104 141Q1280 168 1428 129"/>
+    <path d="M842 139Q935 114 1096 140M1096 163Q1280 190 1428 151"/>
+    <path d="M842 161Q935 136 1088 162M1088 185Q1280 212 1428 173"/>
+    <path d="M842 183Q935 158 1080 184M1080 207Q1280 234 1428 195"/>
+    <path d="M842 205Q935 180 1072 206M1072 229Q1280 256 1428 217"/>
+    <path d="M842 227Q935 202 1064 228M1064 251Q1280 278 1428 239"/>
+    <path d="M842 249Q935 224 1056 250M1056 273Q1280 300 1428 261"/>
+    <path d="M842 271Q935 246 1048 272M1048 295Q1280 322 1428 283"/>
+    <path d="M842 293Q935 268 1040 294M1040 317Q1280 344 1428 305"/>
+    <path d="M842 315Q935 290 1032 316M1032 339Q1280 366 1428 327"/>
+    <path d="M842 337Q935 312 1024 338M1024 361Q1280 388 1428 349"/>
+    <path d="M1126 53L1021 365" stroke="#ffbc85" stroke-width="4"/>
+    <circle cx="1080" cy="191" r="36" stroke="#ffbc85" stroke-width="1" stroke-dasharray="4 5"/>
+  </g>
+  <text x="1226" y="393" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2" fill="#86aab3">SCHEMATIC</text>
+</svg>
